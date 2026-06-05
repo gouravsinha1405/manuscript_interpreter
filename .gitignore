@@ -1,0 +1,23 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local/editor noise
+.DS_Store
+.idea/
+.vscode/
+
+# Large derived artifacts and local outputs
+annotations/*
+!annotations/*parinam*.md
+page_images/
+ocr_output/
+ocr_benchmark/
+line_images/
+phase2_input/
+
+# Keep scans, but do not publish the source PDF by default
+*.pdf

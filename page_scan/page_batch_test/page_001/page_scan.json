@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "source_image": "page_images/page_001.png",
+    "source_width": 13889,
+    "source_height": 7873,
+    "lang": "hi",
+    "window_width": 2800,
+    "window_height": 1400,
+    "step_x": 2400,
+    "step_y": 1200,
+    "max_side": 1600,
+    "tile_size": 1600,
+    "tile_overlap": 120,
+    "max_tiles": 2,
+    "windows_scanned": 4
+  },
+  "windows": [
+    {
+      "window_index": 1,
+      "crop": {
+        "x1": 0,
+        "y1": 0,
+        "x2": 2800,
+        "y2": 1400,
+        "width": 2800,
+        "height": 1400
+      },
+      "processed_width": 1600,
+      "processed_height": 800,
+      "scale": 0.5714285714285714,
+      "tile_count": 1,
+      "entry_count": 0,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "x": 0,
+          "y": 0,
+          "width": 2800,
+          "height": 1400
+        }
+      ],
+      "text": ""
+    },
+    {
+      "window_index": 2,
+      "crop": {
+        "x1": 2400,
+        "y1": 0,
+        "x2": 5200,
+        "y2": 1400,
+        "width": 2800,
+        "height": 1400
+      },
+      "processed_width": 1600,
+      "processed_height": 800,
+      "scale": 0.5714285714285714,
+      "tile_count": 1,
+      "entry_count": 0,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "x": 2400,
+          "y": 0,
+          "width": 2800,
+          "height": 1400
+        }
+      ],
+      "text": ""
+    },
+    {
+      "window_index": 3,
+      "crop": {
+        "x1": 4800,
+        "y1": 0,
+        "x2": 7600,
+        "y2": 1400,
+        "width": 2800,
+        "height": 1400
+      },
+      "processed_width": 1600,
+      "processed_height": 800,
+      "scale": 0.5714285714285714,
+      "tile_count": 1,
+      "entry_count": 0,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "x": 4800,
+          "y": 0,
+          "width": 2800,
+          "height": 1400
+        }
+      ],
+      "text": ""
+    },
+    {
+      "window_index": 4,
+      "crop": {
+        "x1": 7200,
+        "y1": 0,
+        "x2": 10000,
+        "y2": 1400,
+        "width": 2800,
+        "height": 1400
+      },
+      "processed_width": 1600,
+      "processed_height": 800,
+      "scale": 0.5714285714285714,
+      "tile_count": 1,
+      "entry_count": 0,
+      "tiles": [
+        {
+          "tile_index": 1,
+          "x": 7200,
+          "y": 0,
+          "width": 2800,
+          "height": 1400
+        }
+      ],
+      "text": ""
+    }
+  ],
+  "entries": []
+}
